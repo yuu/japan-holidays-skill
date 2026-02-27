@@ -1,4 +1,10 @@
 
+# Install
+```bash
+/plugin marketplace add yuu/japan-holidays-skill
+/plugin install jp-holidays@japan-holidays-skill
+```
+
 # Validation
 
 ```bash

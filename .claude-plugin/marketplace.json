@@ -1,0 +1,20 @@
+{
+  "name": "japan-holidays-skill",
+  "owner": {
+    "name": "yuu"
+  },
+  "metadata": {
+    "description": "Japan national holidays skill",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "jp-holidays",
+      "description": "Get Japan's national holidays from the Cabinet Office",
+      "source": "./",
+      "skills": [
+        "./jp-holidays"
+      ]
+    }
+  ]
+}
